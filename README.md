@@ -6,7 +6,7 @@ This is a project I started around 2 years ago to try and learn mobile game deve
 
 I made some of the assets for this game and used or modified some other free assets that I found mostly on [OpengameArt](https://opengameart.org/). The game itself is almost complete since it's playable on multiple mobile devices, but I intend to continue working on it to improve the looks and the gameplay and fix eventual bugs. I would like to publish it once it is more refined in order to get a few reviews on what I could add or improve.
 
-First boss         |  Second boss
+Start menu         |  Options menu
 :-------------------------:|:-------------------------:
 ![8bit mobile game main menu](8bit_mobile_game/Screenshots/8bit_mobile_game_menu.png) | ![8bit mobile game options menu](8bit_mobile_game/Screenshots/8bit_mobile_game_options.png)
 
@@ -14,6 +14,8 @@ First boss         |  Second boss     |  Third boss
 :-------------------------:|:-------------------------:|:---------------:
 ![8bit mobile game first boss](8bit_mobile_game/Screenshots/8bit_mobile_game_boss1.png) | ![8bit mobile game second boss](8bit_mobile_game/Screenshots/8bit_mobile_game_boss2.png) | ![8bit mobile game third boss](8bit_mobile_game/Screenshots/8bit_mobile_game_boss3.png)
 
+### 8 bit mobile game demo video :
+<video src="8bit_mobile_game/Video%20monster%20shooter.mp4" controls title="Title"></video>
 
 # Student projects
 
@@ -37,6 +39,9 @@ Mobile gameplay             |  Spectator view
 :-------------------------:|:-------------------------:
 ![Wrecking Brawl's logo](Wrecking_Brawl/Screenshots/Wrecking_Brawl_mobile.png) | ![Wrecking Brawl's logo](Wrecking_Brawl/Screenshots/Wrecking_Brawl_spectator.png)
 
+### Wrecking Brawl's trailer :
+<video src="Wrecking_Brawl/%5BWrecking%20Brawl%5D%20Official%20Game%20Trailer%20(EN).mp4" controls title="Title"></video>
+
 ## 3D First Person Shooter
 
 I made a 3D FPS on Unity with 2 other students during my third year of college. Our task was to create any type of 3D game using some of the things we learned on Unity during the semester. We made a zombie like surival game in which you have to fight waves of enemies and defeat a boss aftewards. You can buy weapons and ammunitions using the money dropped by the enemies. There are 2 available maps, one in the desert and one in a spaceship. The enemies are AI controlled and they follow and shoot the player when he comes near them.
@@ -51,6 +56,9 @@ Lootbox           |  Shotgun
 :-------------------------:|:-------------------------:
 ![The lootbox in the 3D FPS game](3D_FPS/Screenshots/3D_FPS_lootbox.png) | ![The shotgun in the 3D FPS game](3D_FPS/Screenshots/3D_FPS_shotgun.png)
 
+### 3D FPS demo video :
+<video src="3D_FPS/3D%20FPS%20preview%20video.mp4" controls title="Title"></video>
+
 ## Level building and cinematic capture
 
 During my last semester of college, I had a level building project to make on Unity. This was given as a task in a class to learn video games basics that I took during my exchange semester in Sherbrooke. I built a terrain entirely using assets that I found on the Unity asset store and some assets that I made. The goal was to use different tools of the engine such as : skyboxes, terrain, ProBuilder, visual effects and music.
@@ -59,6 +67,9 @@ I based my level off of the japanese animated series Made In Abyss. I tried to r
 Global view           |  Close up view
 :-------------------------:|:-------------------------:
 ![Spaceship map for the 3D FPS game](Level_design-Made_In_Abyss/Screenshots/Made_In_Abyss_level_preview1.png) | ![Combat in the 3D FPS Game](Level_design-Made_In_Abyss/Screenshots/Made_In_Abyss_level_preview2.png)
+
+### Made In Abyss level preview video :
+<video src="Level_design-Made_In_Abyss/Level%20design%20Made%20In%20Abyss.mp4" controls title="Title"></video>
 
 ## VR Phobia experience
 
@@ -77,3 +88,6 @@ Initial room            |  Thalassophobia room
 Coulrophobia room           |  Scopophobia room
 :-------------------------:|:-------------------------:
 ![The lootbox in the 3D FPS game](VR_phobia/Screenshots/VR_phobia_coulrophobia.png) | ![The shotgun in the 3D FPS game](VR_phobia/Screenshots/VR_phobia_scopophobia.png)
+
+### VR phobia demo video :
+<video src="VR_phobia/VR_phobia_video.mp4" controls title="Title"></video>
