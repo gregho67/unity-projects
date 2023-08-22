@@ -23,7 +23,7 @@ First boss         |  Second boss     |  Third boss
 
 This is a game that I made with a group a 10 person during my third year in college. We were tasked to create a multiplayer version of an arcade game using Unity. We chose to adapt a Derby Demolition game in 3D by using our own assets.
 
-In Wrecking Brawl, the player controls a car that he can move around in an arena. The goal is to be the last car stading which can be achieved by colliding with the other players to inflict damage to their cars. Once the car's durability reaches 0 the player is eliminated. There are multiple boosts lying around the arena which can help the player deal more damage or void hits.
+In Wrecking Brawl, the player controls a car that he can move around in an arena. The goal is to be the last car standing, which can be achieved by colliding with the other players to inflict damage to their cars. Once the car's durability reaches 0 the player is eliminated. There are multiple boosts lying around the arena which can help the player deal more damage or void hits.
 
 In this project I worked on different aspects of the game such as creating the menus, adding a spectator view and also working on a first version of the cars movements and collisions. I also designed part of the game's website which can be found [here](http://wreckingbrawl.tk/) (Note : the website is currently down due to a server problem).
 
